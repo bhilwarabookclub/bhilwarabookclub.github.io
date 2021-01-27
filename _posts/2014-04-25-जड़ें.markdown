@@ -1,7 +1,7 @@
 ---
 title:  "जड़ें"
 subtitle: "इस्मत चुग़ताई"
-author: "Meenu Beswal"
+author:
 image: "img/jarein.jpg"
 
 ---
