@@ -1,13 +1,11 @@
 ---
 title:  "The Discomfort of Evening"
 subtitle: "Marieke Lucas Rijneveld"
-author: ""
-avatar: ""
+author: "Meenu Beswal"
 image: "img/tdoe.png"
-date:   2015-04-20 12:12:12
+
 ---
 
-### Dolor sit amet?
 And then there were three...
 
 The Discomfort of Evening by Marieke Lucas Rijneveld is disturbing.
