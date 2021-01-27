@@ -1,0 +1,8 @@
+---
+title:  "Rebecca"
+subtitle: "Daphne du Maurier"
+author:
+image: "img/rebecca.jpg"
+
+---
+

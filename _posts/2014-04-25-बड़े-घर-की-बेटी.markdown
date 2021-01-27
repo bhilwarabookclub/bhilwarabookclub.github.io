@@ -1,9 +1,0 @@
----
-title:  "बड़े घर की बेटी"
-subtitle: "प्रेमचंद"
-author:
-image: "img/bgkb.jpg"
-
----
-
-

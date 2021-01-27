@@ -1,9 +1,0 @@
----
-title:  "जड़ें"
-subtitle: "इस्मत चुग़ताई"
-author:
-image: "img/jarein.jpg"
-
----
-
-
