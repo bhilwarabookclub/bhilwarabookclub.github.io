@@ -1,7 +1,7 @@
 ---
 title:  "The English Patient"
 subtitle: "Michael Ondaatje"
-author: "Meenu Beswal"
+author:
 image: "img/tep.jpg"
 
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Sea of Poppies"
 subtitle: "Amitav Ghosh"
-author: "Meenu Beswal"
+author:
 image: "img/sop.jpg"
 
 ---

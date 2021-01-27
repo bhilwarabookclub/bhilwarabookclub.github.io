@@ -1,7 +1,7 @@
 ---
 title:  "Eleanor Oliphant is Completely Fine"
 subtitle: "Gail Honeyman"
-author: "Meenu Beswal"
+author:
 image: "img/eoicf.jpg"
 
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Where the Crawdads Sing"
 subtitle: "Delia Owens"
-author: "Meenu Beswal"
+author:
 image: "img/wtcs.jpg"
 
 ---
