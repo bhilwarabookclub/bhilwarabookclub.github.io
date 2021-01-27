@@ -1,8 +1,8 @@
 ---
-title:  "The Book Thief"
-subtitle: "Markus Zusak"
+title:  "The Chosen"
+subtitle: "Chaim Potok"
 author: "Meenu Beswal"
-image: "img/tbt.jpg"
+image: "img/the-chosen.jpg"
 
 ---
 
