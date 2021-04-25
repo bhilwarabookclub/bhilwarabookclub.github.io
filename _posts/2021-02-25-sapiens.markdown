@@ -1,4 +1,4 @@
-title:  "Sapiens: A Brief History of Humankind"
+title:  "Sapiens"
 subtitle: "Yuval Noah Harari"
 author: "Meenu Beswal"
 image: "img/sapiens.jpg"
